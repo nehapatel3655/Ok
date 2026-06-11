@@ -1,0 +1,6 @@
+{
+  "name": "Automator",
+  "description": "Smart Account Creator interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
